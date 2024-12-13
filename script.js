@@ -803,6 +803,131 @@ const questions = [
     "question": "La definizione di shock settico comprende i seguenti parametri ad eccezione di",
     "options": ["Oligo/anuria", "Ipotensione persistente", "Lattati elevati", "Febbre o ipotermia"],
     "correct": 0
+},
+  {
+    "question": "Quali fra le seguenti condizioni cliniche che si manifestano con dolore toracico sono potenzialmente a rischio per la vita",
+    "options": ["Angina instabile e SCA, dissezione aortica, pericardite acuta e tamponamento cardiaco, embolia polmonare, PNX iperteso, rottura esofagea", "Reflusso gastroesofageo e spasmo esofageo", "Nevralgia intercostale e sindrome di Tietze", "Contrattura muscolare e ansia"],
+    "correct": 0
+},
+{
+    "question": "L’arteriografia con angioembolizzazione",
+    "options": ["È indicata in un paziente emodinamicamente stabile con danno vascolare", "È indicata in un paziente con instabilità emodinamica", "Non ha alcun ruolo nella gestione dei danni vascolari", "Si utilizza esclusivamente nei traumi cranici"],
+    "correct": 0
+},
+{
+    "question": "Un bambino di 28 mesi viene condotto in Pronto Soccorso dalla mamma per stridore inspiratorio, tosse abbaiante, fatica respiratoria e cianosi. Qual è la diagnosi più probabile",
+    "options": ["Crup", "Epiglottite acuta", "Bronchiolite", "Aspiro di corpo estraneo"],
+    "correct": 0
+},
+{
+    "question": "L’asma bronchiale è una sindrome",
+    "options": ["Caratterizzata da un aumento reversibile della resistenza delle vie aeree", "Caratterizzata da un’ostruzione irreversibile delle vie aeree", "Causata da infezioni batteriche croniche", "Associata esclusivamente a deficit immunitari"],
+    "correct": 0
+},
+{
+    "question": "Un uomo di 68 anni, diabetico, fumatore e noto per infezione cronica da HBV, viene ricoverato per sospetta polmonite. Agli esami di laboratorio si evidenzia un’iponatriemia (Na 126 mEq/L), con livelli di potassio nella norma (K 4.0 mEq/L). I restanti risultati di laboratorio risultano nella norma, fatta eccezione per un aumento degli indici della fase acuta. La ricerca dell’antigene urinario di legionella Pneumophila è positiva. Il paziente è euvolemico e non sono presenti reperti obiettivi rilevanti. Qual è la più probabile causa della riduzione dei valori di Na plasmatico in questo paziente",
+    "options": ["Sindrome da inappropriata secrezione di ADH (SIADH)", "Insufficienza surrenalica con ipoaldosteronismo", "Sindrome diabetica iperosmolare e iperglicemica", "Ipovolemia non diagnosticata"],
+    "correct": 0
+},
+{
+    "question": "Quale delle seguenti è la definizione corretta e completa di dolore toracico",
+    "options": ["Qualsiasi dolore dalla base del naso all’ombelico, anteriormente, e dalla nuca alla 12° vertebra, posteriormente, che non abbia causa traumatica o chiaramente identificabile", "Qualsiasi dolore riferito esclusivamente alla regione sternale", "Dolore riferito a livello scapolare bilaterale", "Dolore toracico di origine cardiaca identificata"],
+    "correct": 0
+},
+{
+    "question": "Gli aspetti caratterizzanti della broncopneumopatia cronica ostruttiva sono",
+    "options": ["Tutte le precedenti", "La limitazione espiratoria al flusso", "L’aumento delle resistenze", "L’aumento dell'elastanza"],
+    "correct": 0
+},
+{
+    "question": "Le cause più frequenti della sindrome da distress respiratorio acuto (ARDS) sono",
+    "options": ["Tutte le precedenti (polmonite, inalazione)", "Polmonite", "Inalazione", "Nessuna delle precedenti"],
+    "correct": 0
+},
+{
+    "question": "La pressione di plateau nel paziente con ARDS dovrebbe essere",
+    "options": ["Minore di 30 cmH2O", "Minore di 20 cmH2O", "Maggiore di 35 cmH2O", "Compresa tra 25 e 35 cmH2O"],
+    "correct": 0
+},
+{
+    "question": "La pressione di supporto è",
+    "options": ["Il sostegno allo sforzo inspiratorio con una pressione positiva", "La pressione positiva di fine espirazione (PEEP)", "La pressione negativa durante l’inspirazione", "Una tecnica per il monitoraggio della pressione toracica"],
+    "correct": 0
+},
+  {
+    "question": "La causa più frequente di emorragia digestiva bassa tra i 40 e i 60 anni è data da",
+    "options": ["Malattia diverticolare", "Polipi intestinali", "Carcinoma del colon", "Colite ulcerosa"],
+    "correct": 0
+},
+{
+    "question": "Il quadro clinico dell’occlusione intestinale da ostruzione è caratterizzato da",
+    "options": ["Dolore addominale, vomito e chiusura dell’alvo a feci e gas", "Dolore addominale e diarrea profusa", "Dolore toracico irradiato con vomito", "Distensione addominale senza dolore"],
+    "correct": 0
+},
+{
+    "question": "La chirurgia per il trattamento del trauma duodenale può includere",
+    "options": ["Tutte le precedenti", "Damage control surgery", "Esclusione pilorica con gastrodigiunostomia", "Intervento di Whipple"],
+    "correct": 0
+},
+{
+    "question": "La resezione epatica nei pazienti con trauma epatico",
+    "options": ["Nessuna delle precedenti", "È il trattamento di scelta nei traumi epatici in pazienti emodinamicamente instabili", "Può essere eseguita solo dopo il packing epatico", "Deve essere sempre eseguita dopo la legatura dell’arteria epatica comune"],
+    "correct": 0
+},
+{
+    "question": "La PaO2 è il marcatore",
+    "options": ["Dello scambio gassoso", "Della ventilazione alveolare", "Della perfusione sistemica", "Del trasporto di ossigeno a livello tissutale"],
+    "correct": 0
+},
+{
+    "question": "Che cosa valuta il ‘chest pain score’",
+    "options": ["Valuta la probabilità che un dolore sia di origine coronarica", "Valuta la presenza di versamento pleurico", "Determina la gravità del dolore toracico non coronarico", "Valuta il rischio di dissezione aortica"],
+    "correct": 0
+},
+{
+    "question": "Relativamente alla semplice extrasistolia, quali tra le seguenti affermazioni ritieni corretta",
+    "options": ["La semplice extrasistolia non complicata, se non sostenuta da malattie meritevoli di trattamento, non deve essere trattata con farmaci e può giovarsi della semplice rassicurazione con indicazioni sullo stile di vita", "La semplice extrasistolia richiede trattamento con beta-bloccanti in tutti i casi", "La semplice extrasistolia è sempre associata a cardiopatie strutturali", "La semplice extrasistolia richiede monitoraggio con ecocardiogramma settimanale"],
+    "correct": 0
+},
+{
+    "question": "Quali parametri si utilizzano per l’‘Heart Score’",
+    "options": ["Anamnesi, ECG, età, fattori di rischio", "ECG, pressione arteriosa, frequenza cardiaca", "Troponina, anamnesi, diabete", "Fattori di rischio, esami ematochimici, età"],
+    "correct": 0
+},
+{
+    "question": "Quali fra le seguenti cardiopatie strutturali possono causare cardiopalmo",
+    "options": ["Insufficienza mitralica", "Pericardite cronica", "Stenosi aortica lieve", "Prolasso del ventricolo destro"],
+    "correct": 0
+},
+{
+    "question": "Il dosaggio della procalcitonina non è utile",
+    "options": ["Per decidere il timing dell’infusione di liquidi", "Per valutare la gravità della sepsi", "Per monitorare la risposta alla terapia antibiotica", "Per differenziare infezioni virali da batteriche"],
+    "correct": 0
+},
+{
+    "question": "Adolescente maschio di anni 14 si presenta in Pronto Soccorso con difficoltà respiratorie, comparse in seguito a sforzo fisico, presenta accessi di tosse con sibili espiratori come nell’asma bronchiale. Si prescrive quindi trattamento con teofillina. Indicare quale dei seguenti effetti non è proprio della teofillina",
+    "options": ["Azione pro-infiammatoria", "Broncodilatazione", "Stimolazione del sistema nervoso centrale", "Effetto cronotropo positivo"],
+    "correct": 0
+},
+  {
+    "question": "Un paziente noto eroinomane viene condotto in Pronto Soccorso per arresto respiratorio. Quale è il farmaco di scelta nella grave depressione respiratoria da overdose di oppiacei?",
+    "options": ["Naloxone", "Flumazenil", "Atropina", "N-acetilcisteina"],
+    "correct": 0
+},
+{
+    "question": "Un uomo di 51 anni, ricoverato per il trattamento di una pancreatite acuta alcolica, sviluppa un versamento ascitico. La diagnosi di certezza di ascite pancreatica si pone con",
+    "options": ["Il dosaggio delle amilasi sul liquido ascitico prelevato tramite paracentesi", "Una TC addome con mezzo di contrasto", "Un'ecografia addominale con rilevazione del liquido ascitico", "La misurazione della pressione venosa centrale"],
+    "correct": 0
+},
+{
+    "question": "Relativamente alla epidemiologia del cardiopalmo, quale è la percentuale di casi nella quale si documenta una aritmia?",
+    "options": ["Intorno al 40%", "Intorno al 20%", "Intorno al 60%", "Intorno all'80%"],
+    "correct": 0
+},
+{
+    "question": "Quali sono le complicanze dell’intervento secondo Hartmann?",
+    "options": ["Infezione della ferita chirurgica", "Occlusione intestinale precoce", "Fistola anastomotica", "Deiscenza della sutura addominale"],
+    "correct": 0
 }
 ];
 
