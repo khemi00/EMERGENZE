@@ -949,7 +949,7 @@ function getRandomQuestions(allQuestions, num) {
     return allQuestions.slice(0, num);
 }
 
-const selectedQuestions = getRandomQuestions(questions, 40);
+const selectedQuestions = getRandomQuestions(questions, 4000);
 
 function generaQuiz() {
     const form = document.getElementById('quiz-form');
